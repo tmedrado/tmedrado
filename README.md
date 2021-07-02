@@ -4,7 +4,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmedrado/)](https://www.linkedin.com/in/tmedrado/)
 
 ### About me
-I'm currently based in Rio de Janeiro - Brazil, studying Engineering at Federal University of Rio de Janeiro (UFRJ) and working as Software Engineer Intern @ Benie Health [@beniesaude].
+I'm currently based in Rio de Janeiro - Brazil, studying Engineering at Federal University of Rio de Janeiro (UFRJ) and working as a Software Engineer Intern at Benie Health [@beniesaude].
+
+### Tools
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+
+
 
 
 ### Stats
