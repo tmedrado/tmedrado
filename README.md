@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tmedrado)](https://github.com/tmedrado)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmedrado/)](https://www.linkedin.com/in/tmedrado/)
 
-### About me
+### About
 I'm currently based in Rio de Janeiro - Brazil, studying Engineering at Federal University of Rio de Janeiro (UFRJ) and working as a Software Engineer Intern at Benie Health [@beniesaude].
 
 ### Tools
