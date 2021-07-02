@@ -6,11 +6,11 @@ I'm currently based in Rio de Janeiro - Brazil, studying Engineering at Federal 
 
 ### Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#F7DF1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=430098)
-![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=#CC0000)
+![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=#232F3E)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
 
