@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmedrado/)](https://www.linkedin.com/in/tmedrado/)
 
 ### About
-I'm currently based in Rio de Janeiro - Brazil, studying Industrial Engineering at Federal University of Rio de Janeiro (UFRJ) and working as a Software Engineer. 
+
 
 ### Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
